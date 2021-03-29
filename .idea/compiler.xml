@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="cloud-service-database-6000" />
+        <module name="cloud-api-common" />
+        <module name="cloud-service-encrypt-8000" />
+        <module name="cloud-service-decrypt-8100" />
+        <module name="cloud-service-database" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
