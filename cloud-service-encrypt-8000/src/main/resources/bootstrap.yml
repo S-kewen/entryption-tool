@@ -1,5 +1,5 @@
 server:
-  ip: 110.140.0.2
+  ip: 10.140.0.2
   #10.140.0.2
   port: 8000
 spring:
@@ -9,6 +9,9 @@ spring:
     #active: prod #表示生产环境
   application:
     name: cloud-service-encrypt
+  jackson:
+    time-zone: GMT+8
+    date-format: yyyy-MM-dd HH:mm:ss
   cloud:
     nacos:
       discovery:
