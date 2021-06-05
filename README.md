@@ -18,6 +18,7 @@
 我們一般是透過中間件的方式來實現資料分散式，常見的分散式資料庫中間件有TDDL、Amoeba、Cobar、MyCat等，本項目透過MyCat來實現。
 ## 什麼是MyCat？
 官網：http://www.mycat.org.cn/
+
 MyCat 是一個徹底開源的，面向企業應用開發的“大資料庫集群” 支援事務、ACID、可以替代Mysql的加強版資料庫。
 
 ## 資料分散式有什麼特點？
